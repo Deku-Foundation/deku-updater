@@ -1,6 +1,6 @@
 # Deku Updater
 
-Client-side update planning and activation for Deku Linux.
+Planned client-side update component for Deku Linux; safe update activation is not implemented yet.
 
 ## Status
 
